@@ -25,7 +25,7 @@
   },
   {
     "id": "4",
-    "url": "https://github.com/seeexcess/MenuDB/blob/gh-pages/menuImg-4.jpg/?raw=true",
+    "url": "https://github.com/seeexcess/MenuDB/blob/gh-pages/menuImg-2.svg/?raw=true",
     "title": "Lahmacun",
     "isFavorite": false,
     "price": "25",
@@ -33,7 +33,7 @@
   },
   {
     "id": "5",
-    "url": "https://github.com/seeexcess/MenuDB/blob/gh-pages/menuImg-5.jpg/?raw=true",
+    "url": "https://github.com/seeexcess/MenuDB/blob/gh-pages/menuImg-3.svg/?raw=true",
     "title": "Croatian Beans Soup",
     "isFavorite": false,
     "price": "30",
@@ -41,7 +41,7 @@
   },
   {
     "id": "6",
-    "url": "https://github.com/seeexcess/MenuDB/blob/gh-pages/menuImg-6.jpg/?raw=true",
+    "url": "https://github.com/seeexcess/MenuDB/blob/gh-pages/menuImg-1.svg/?raw=true",
     "title": "Pizza",
     "isFavorite": false,
     "price": "20",
